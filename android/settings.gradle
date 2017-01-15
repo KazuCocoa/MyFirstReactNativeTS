@@ -1,0 +1,3 @@
+rootProject.name = 'MyFirstReactNativeTS'
+
+include ':app'
